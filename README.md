@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hi, I am Raghu Prashanka, a third-year undergrad student. 
+I am pursuing my BTech in computer science out of interest and love for technology. Currently, AI, especially natural language processing, interests me the most. I believe there is massive scope for human-computer interaction, to the extent that current humans can’t imagine. I love experimenting with anything that interests me, from music to technology. I have always been in love with agriculture. I have immense love and respect for the farming culture. My dream is to connect agriculture with technology. My extracurricular interests involve music, dance, and social service activities. I love interacting with people and spending time understanding them.
